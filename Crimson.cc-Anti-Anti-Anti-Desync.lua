@@ -1,1 +1,1 @@
-https://luafree.vercel.app/api/load/lf_btendqFa20dzwa3tQallb7SqE-R2F_wiAGJi4qQth0E
+loadstring(game:HttpGet('https://luafree.vercel.app/api/load/lf_btendqFa20dzwa3tQallb7SqE-R2F_wiAGJi4qQth0E'))()
