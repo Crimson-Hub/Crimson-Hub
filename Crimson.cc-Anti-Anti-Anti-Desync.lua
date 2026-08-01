@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://luauprotect.up.railway.app/loader/f74338d9b1291286'))()
+https://luafree.vercel.app/api/load/lf_btendqFa20dzwa3tQallb7SqE-R2F_wiAGJi4qQth0E
